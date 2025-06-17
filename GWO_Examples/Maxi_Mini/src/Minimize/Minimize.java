@@ -278,3 +278,5 @@ public class Minimize {
         System.out.println("\n1-6: Sensör numaraları, .: Boş alan");
     }
 }
+
+
